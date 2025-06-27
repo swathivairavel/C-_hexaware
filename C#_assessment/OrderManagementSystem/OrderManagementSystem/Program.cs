@@ -6,11 +6,10 @@ using OrderManagementSystem.main;
     {
         static void Main(string[] args)
         {
-            static void Main(string[] args)
-            {
+           
                 OrderManagementMain.Run();
 
-            }
+            
         }
     }
 }
